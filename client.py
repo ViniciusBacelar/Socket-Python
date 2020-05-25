@@ -1,3 +1,9 @@
+""" 
+        Author: Vinicius Bacelar
+        Version: 1.0.0
+        GitHub: @ViniciusBacelar
+"""
+
 import socket
 from endereco_ip import endereco_ip
 

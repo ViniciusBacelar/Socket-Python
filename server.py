@@ -1,3 +1,8 @@
+""" 
+        Author: Vinicius Bacelar
+        Version: 1.0.0
+        GitHub: @ViniciusBacelar
+"""
 import socket
 servidor = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 servidor.bind(('', 12000))
